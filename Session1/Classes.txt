@@ -1,0 +1,38 @@
+# java
+
+package com.haufe.cookbook;
+
+public class Pizza {
+
+    private String crust;
+
+    public String getCrust(){
+        return crust;
+    }
+
+    public void setCrust(String newValue){
+        crust = newValue;
+    }
+}
+
+
+
+# C#
+
+namespace library
+{
+    public class Pizza
+    {
+        string crust;
+
+       public Pizza(string whatCrust)
+       {
+           crust = whatCrust;
+       }
+
+       public string PizzaCrust()
+       {
+           return crust;
+       }
+    }
+}
