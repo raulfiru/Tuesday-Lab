@@ -1,0 +1,12 @@
+/Users/firur/VS Code/console/app/bin/Debug/netcoreapp2.0/app.deps.json
+/Users/firur/VS Code/console/app/bin/Debug/netcoreapp2.0/app.runtimeconfig.json
+/Users/firur/VS Code/console/app/bin/Debug/netcoreapp2.0/app.runtimeconfig.dev.json
+/Users/firur/VS Code/console/app/bin/Debug/netcoreapp2.0/app.dll
+/Users/firur/VS Code/console/app/bin/Debug/netcoreapp2.0/app.pdb
+/Users/firur/VS Code/console/app/bin/Debug/netcoreapp2.0/library.dll
+/Users/firur/VS Code/console/app/bin/Debug/netcoreapp2.0/library.pdb
+/Users/firur/VS Code/console/app/obj/Debug/netcoreapp2.0/app.csproj.CoreCompileInputs.cache
+/Users/firur/VS Code/console/app/obj/Debug/netcoreapp2.0/app.AssemblyInfoInputs.cache
+/Users/firur/VS Code/console/app/obj/Debug/netcoreapp2.0/app.AssemblyInfo.cs
+/Users/firur/VS Code/console/app/obj/Debug/netcoreapp2.0/app.dll
+/Users/firur/VS Code/console/app/obj/Debug/netcoreapp2.0/app.pdb
