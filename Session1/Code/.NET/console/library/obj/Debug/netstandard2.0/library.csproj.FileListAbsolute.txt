@@ -1,8 +1,0 @@
-/Users/firur/VS Code/console/library/bin/Debug/netstandard2.0/library.deps.json
-/Users/firur/VS Code/console/library/bin/Debug/netstandard2.0/library.dll
-/Users/firur/VS Code/console/library/bin/Debug/netstandard2.0/library.pdb
-/Users/firur/VS Code/console/library/obj/Debug/netstandard2.0/library.csproj.CoreCompileInputs.cache
-/Users/firur/VS Code/console/library/obj/Debug/netstandard2.0/library.AssemblyInfoInputs.cache
-/Users/firur/VS Code/console/library/obj/Debug/netstandard2.0/library.AssemblyInfo.cs
-/Users/firur/VS Code/console/library/obj/Debug/netstandard2.0/library.dll
-/Users/firur/VS Code/console/library/obj/Debug/netstandard2.0/library.pdb
