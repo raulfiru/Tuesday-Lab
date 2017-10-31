@@ -1,5 +1,5 @@
 package com.haufe.cookbook.ingredients;
 
-interface Ingredient {
+public interface Ingredient {
     int Cost();
 }
